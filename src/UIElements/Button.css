@@ -1,0 +1,14 @@
+.card-btn{
+    padding:.4rem;
+    background-color:#68caf4;
+    border-radius: 3px;
+    border:none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor:pointer;
+    padding:0.5rem 1rem;
+}
+.card-btn:hover,
+.card-btn:active{
+    background-color:#41b9ec;
+    padding:.5rem 1.1rem;
+}

@@ -1,0 +1,25 @@
+.card-list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card{
+    margin-top:1rem;
+    margin-bottom:1rem;
+    /* min-width: 350px; */
+
+}
+.loader{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin-top:35vh;
+    
+}
+.loader-txt{
+    color:white;
+    margin-top: 3rem;
+    font-family: 'Stylish', sans-serif;
+    font-size: 2rem;
+}

@@ -1,0 +1,30 @@
+.main_navbar{
+    background: #ff0055;
+    position:fixed;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 1rem;
+    height:4rem;
+    width:100%;
+    box-shadow:0 2px 6px rgba(0,0,0,0.26);
+    color:white;
+    top:0;
+}
+main{
+    margin-top:5rem;
+}
+.movie-animation{
+    width:5rem;
+    margin:0;
+    padding-top:0.5rem;
+}
+.left-container{
+    position: relative;
+    display:flex;
+    align-items:center;
+}
+.main-title:hover{
+    color:#e2f864;
+    text-shadow: 0 0 10px #e2f864, 0 0 20px #e2f864, 0 0 30px #e2f864;
+}
